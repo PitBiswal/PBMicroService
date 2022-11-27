@@ -10,7 +10,7 @@ public class AccountController {
 	
 	@GetMapping("/status/check")
 	public String status() {
-		return "working...";
+		return "Account WS Calling through  API Gate Way working...";
 	}
 	
 

@@ -13,7 +13,7 @@ public class UserController {
 	private Environment env;
 	@GetMapping("/status/check")
 	public String status() {
-		return "working on port ::"+env.getProperty("local.server.port");
+		return "Users Web Service (PhotoAppApiUsers)working on port ::"+env.getProperty("local.server.port");
 	}
 
 }
