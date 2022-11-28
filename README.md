@@ -16,6 +16,9 @@ http://localhost:9081/users/status/check
 Account WS End Point
 http://localhost:9082/account/status/check
 
+Git URL to clone src code
+https://github.com/PitBiswal/PBMicroService.git
+
 
 
 
